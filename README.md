@@ -8,7 +8,7 @@ This assignment included writing routes for a pre-built application. Inspecting 
 
 ## what do I need to explain
 
-Much of the code was already supplied. Some of the functionality of the UI isn't intuitive at first glance (the '+' icon) but the project is operating as wanted/expected.
+Much of the code was already supplied. Some of the functionality of the UI isn't intuitive at first glance (the '+' icon) but the project is operating as wanted/expected. FYI.
 
 ## screenshot of final product
 
