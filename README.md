@@ -12,15 +12,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 -->
 
-<img src="https://img.shields.io/badge/HTML-orange"/>
-<img src="https://img.shields.io/badge/CSS-yellow"/>
-<!--<img src="https://img.shields.io/badge/Bulma-blue"/>-->
-<img src="https://img.shields.io/badge/Javascript-indigo"/>
-<!--<img src="https://img.shields.io/badge/jQuery-violet"/>-->
-<img src="https://img.shields.io/badge/-Node.js-violet"/>
-<img src="https://img.shields.io/badge/-JSON-red"/>
-<!--<img src="https://img.shields.io/badge/-SQL-orange  "/>-->
-
 ![license](https://img.shields.io/badge/license-MIT-red) 
 
 
@@ -35,7 +26,17 @@
 
 <h2 align="center">Note Taker w/ Express</h2>
   <p align="center">
-    This project included writing routes for a pre-built front-end note taking application.
+    <img src="https://img.shields.io/badge/HTML-orange"/>
+    <img src="https://img.shields.io/badge/CSS-yellow"/>
+    <!--<img src="https://img.shields.io/badge/Bulma-blue"/>-->
+    <img src="https://img.shields.io/badge/Javascript-indigo"/>
+    <!--<img src="https://img.shields.io/badge/jQuery-violet"/>-->
+    <img src="https://img.shields.io/badge/-Node.js-violet"/>
+    <img src="https://img.shields.io/badge/-JSON-red"/>
+    <!--<img src="https://img.shields.io/badge/-SQL-orange  "/>-->
+  </p>
+  <p align="center">
+    This project is a note taking application that uses Express.
     <br />
     <br />
     <a href="https://bret-heroku-app.herokuapp.com/">View Demo</a>
